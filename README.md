@@ -1,5 +1,12 @@
 ## Hi, I am Folly Teko 👋
 
+I am currently a Computer Information Systems (CIS) student at the University of Louisville specializing in Cyber Security. I’m passionate about leveraging technology to solve complex problems and improve business processes. Throughout my studies, I've gained a strong understanding through project that is showcased in thios portfolio. Thank you for taking timne to eye my work!
+
+## Resume
+
+## Cover Letter 
+
+
 <!-- 
 **fpteko/fpteko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
