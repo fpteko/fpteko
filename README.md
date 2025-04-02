@@ -3,6 +3,8 @@
 I am currently a Computer Information Systems (CIS) student at the University of Louisville specializing in Cyber Security. I’m passionate about leveraging technology to solve complex problems and improve business processes. Throughout my studies, I've gained a strong understanding through project that is showcased in thios portfolio. Thank you for taking timne to eye my work!
 
 ## Resume
+![Screenshot 2025-04-02 192239](https://github.com/user-attachments/assets/ea46520e-2600-4f30-a35a-54a984dedb54)
+![Screenshot 2025-04-02 192301](https://github.com/user-attachments/assets/dc52278e-0ecb-4556-a8f6-d9e50df04d9d)
 
 ## Cover Letter 
 
