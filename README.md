@@ -8,6 +8,8 @@ I am currently a Computer Information Systems (CIS) student at the University of
 <li><a href="https://github.com/fpteko/cover-letter.git">coverletter</a></li>
 </ul>
 
+##🧠**Skills**
+
 
 
 <!-- 
