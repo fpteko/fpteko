@@ -3,7 +3,7 @@
 I am currently a Computer Information Systems (CIS) student at the University of Louisville specializing in Cyber Security. I’m passionate about leveraging technology to solve complex problems and improve business processes. Throughout my studies, I've gained a strong understanding through project that is showcased in thios portfolio. Thank you for taking timne to eye my work!
 
 ## Resume
-https://github.com/fpteko/Resume.git
+<li><a href="https://github.com/fpteko/Resume.git" class="Resume"></a></li>
 ## Cover Letter 
 
 
