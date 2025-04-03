@@ -8,8 +8,7 @@ I am currently a Computer Information Systems (CIS) student at the University of
 <li><a href="https://github.com/fpteko/cover-letter.git">cover Letter</a></li>
 </ul>
 
-🧠 **Skills**
-##
+## 🧠Skills
 <p dir="auto"><br>Programming Languages:<br></p>
 <li> C#</li>
 <li> Exel & Access</li>
@@ -36,7 +35,7 @@ I am currently a Computer Information Systems (CIS) student at the University of
 <li> Canva</li>
 </p>
 
-SQL & Database Design Project
+## SQL & Database Design Project
 
 
 
