@@ -37,7 +37,7 @@ I am currently a Computer Information Systems (CIS) student at the University of
 
 ## SQL & Database Design Project
 <ul dir="auto">
-<li><a href="">Waitlist/Booking scheduling site for Non Profit company</a></li>
+<li><a href="https://github.com/fpteko/SQL-.git">Crow's Foot ERD</a></li>
 <li><a href="https://github.com/Tawneystitt/SAD-UFD">UFD/SAD</a></li>
 <li><a href="https://github.com/Tawneystitt/RTM">RTM Created for our nonprofit development</a></li>
 <li><a href="https://github.com/Tawneystitt/SystemRequirements/blob/main/README.md">System Requirements</a></li>
