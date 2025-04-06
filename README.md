@@ -60,6 +60,13 @@ I am currently a Computer Information Systems (CIS) student at the University of
 <li><a href="https://github.com/fpteko/Use-Cases.git">Use Cases</a></li>
 </ul>
 
+## Pentesting and Wireshark Project
+<ul dir="auto">
+<li><a href="">SQL Pentesting</a></li>
+<li><a href="https://github.com/fpteko/UFD.git">User Flow Diagram</a></li>
+<li><a href="https://github.com/fpteko/SAD.git">System Architecture Diagram</a></li>
+<li><a href="https://github.com/fpteko/ERD-.git">ERD</a></li>
+</ul>
 
 <!-- 
 **fpteko/fpteko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
