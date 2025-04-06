@@ -55,7 +55,7 @@ I am currently a Computer Information Systems (CIS) student at the University of
 <li><a href="https://github.com/fpteko/UFD.git">User Flow Diagram</a></li>
 <li><a href="https://github.com/fpteko/SAD.git">System Architecture Diagram</a></li>
 <li><a href="https://github.com/fpteko/ERD-.git">ERD</a></li>
-<li><a href="">SQL-query</a></li>
+<li><a href="https://github.com/fpteko/RTM.git">Requirement Traceability Matrix</a></li>
 <li><a href="">SQL-query</a></li>
 </ul>
 
