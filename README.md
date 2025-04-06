@@ -49,6 +49,16 @@ I am currently a Computer Information Systems (CIS) student at the University of
 <li><a href="https://github.com/fpteko/IBM-Case-Study.git">IBM Coorporation Case Study</a></li>
 </ul>
 
+## Development Project
+<ul dir="auto">
+<li><a href=""></a></li>
+<li><a href="">SQL-query</a></li>
+<li><a href="">SQL-query</a></li>
+<li><a href="">SQL-query</a></li>
+<li><a href="">SQL-query</a></li>
+<li><a href="">SQL-query</a></li>
+</ul>
+
 
 <!-- 
 **fpteko/fpteko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
