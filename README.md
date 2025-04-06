@@ -63,8 +63,8 @@ I am currently a Computer Information Systems (CIS) student at the University of
 ## Database security Project
 <ul dir="auto">
 <li><a href="https://github.com/fpteko/Pentesting.git">SQL Pentesting</a></li>
-<li><a href="">User Flow Diagram</a></li>
-<li><a href="https://github.com/fpteko/SAD.git">System Architecture Diagram</a></li>
+<li><a href="https://github.com/fpteko/Linux-.git">Kali Linux Firewall</a></li>
+<li><a href="">Routing Simulation</a></li>
 <li><a href="https://github.com/fpteko/ERD-.git">ERD</a></li>
 </ul>
 
