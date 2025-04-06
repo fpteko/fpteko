@@ -51,7 +51,7 @@ I am currently a Computer Information Systems (CIS) student at the University of
 
 ## Development Project
 <ul dir="auto">
-<li><a href=""></a></li>
+<li><a href="">SQL-query</a></li>
 <li><a href="">SQL-query</a></li>
 <li><a href="">SQL-query</a></li>
 <li><a href="">SQL-query</a></li>
