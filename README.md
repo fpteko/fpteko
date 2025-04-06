@@ -46,7 +46,7 @@ I am currently a Computer Information Systems (CIS) student at the University of
 <ul dir="auto">
 <li><a href="https://github.com/fpteko/CareGroup-case-study.git">CareGroup case Study</a></li>
 <li><a href="https://github.com/fpteko/Data-Breach-Target.git">Target Case Study</a></li>
-<li><a href="">IBM Coorporation Case Study</a></li>
+<li><a href="https://github.com/fpteko/IBM-Case-Study.git">IBM Coorporation Case Study</a></li>
 </ul>
 
 
