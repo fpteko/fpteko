@@ -39,7 +39,7 @@ I am currently a Computer Information Systems (CIS) student at the University of
 <ul dir="auto">
 <li><a href="https://github.com/fpteko/SQL-.git">Crow's Foot ERD</a></li>
 <li><a href="https://github.com/fpteko/SQL-Queries.git">SQL-query</a></li>
-<li><a href="">SQL-query</a></li>
+<li><a href="https://github.com/fpteko/SQL-query.git">SQL-query</a></li>
 </ul>
 
 
