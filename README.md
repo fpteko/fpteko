@@ -38,11 +38,8 @@ I am currently a Computer Information Systems (CIS) student at the University of
 ## SQL & Database Design Project
 <ul dir="auto">
 <li><a href="https://github.com/fpteko/SQL-.git">Crow's Foot ERD</a></li>
+<li><a href="https://github.com/fpteko/SQL-Queries.git">SQL-query</a></li>
 <li><a href="">SQL-query</a></li>
-<li><a href="https://github.com/Tawneystitt/RTM">RTM Created for our nonprofit development</a></li>
-<li><a href="https://github.com/Tawneystitt/SystemRequirements/blob/main/README.md">System Requirements</a></li>
-<li><a href="https://github.com/Tawneystitt/UseCases/blob/main/README.md">Use Cases</a></li>
-<li><a href="https://github.com/Tawneystitt/Iteration-320/blob/main/README.md">Iteration</a></li>
 </ul>
 
 
