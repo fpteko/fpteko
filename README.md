@@ -67,6 +67,10 @@ I am currently a Computer Information Systems (CIS) student at the University of
 <li><a href="https://github.com/fpteko/Routing-Simulation.git">Packet Tracer Routing Simulation</a></li>
 </ul>
 
+## ![SoExcited~GIF](https://github.com/user-attachments/assets/26a83858-b562-423c-a060-1906a13bc2b3) Get to know me more
+
+
+
 <!-- 
 **fpteko/fpteko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
