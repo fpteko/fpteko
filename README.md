@@ -57,7 +57,7 @@ I am currently a Computer Information Systems (CIS) student at the University of
 <li><a href="https://github.com/fpteko/ERD-.git">ERD</a></li>
 <li><a href="https://github.com/fpteko/RTM.git">Requirement Traceability Matrix</a></li>
 <li><a href="https://github.com/fpteko/System-Requirement.git">System Requirements</a></li>
-<li><a href="">Use Cases</a></li>
+<li><a href="https://github.com/fpteko/Use-Cases.git">Use Cases</a></li>
 </ul>
 
 
