@@ -42,6 +42,12 @@ I am currently a Computer Information Systems (CIS) student at the University of
 <li><a href="https://github.com/fpteko/SQL-query.git">SQL-query</a></li>
 </ul>
 
+## Management of Information System
+<ul dir="auto">
+<li><a href="">CareGroup case Study</a></li>
+<li><a href="">Target Case Study</a></li>
+<li><a href="">IBM Coorporation Case Study</a></li>
+</ul>
 
 
 <!-- 
