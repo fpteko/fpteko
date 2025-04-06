@@ -68,6 +68,7 @@ I am currently a Computer Information Systems (CIS) student at the University of
 </ul>
 
 ## 😎Get to know me more
+I am from West Africa specifically from Togo. It's a country with tropical weather but sometimes can be really hot. I find great joy in playing video games, soccer, and listening to music. I also love traveling. I been to Belgium, Tennessee, Miami, West Virginia and i will going to Chicago in a few weeks. I recently started kickboxing just for fun and I really love it.  
 
 
 
