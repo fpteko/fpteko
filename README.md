@@ -12,7 +12,7 @@ I am currently a Computer Information Systems (CIS) student at the University of
 <p dir="auto"><br>Programming Languages:<br></p>
 <li> C#</li>
 <li> Exel & Access</li>
-<li> Python</li>
+<li> Java</li>
 
 <p dir="auto"><br>Database:<br></p>
 <li> MySQL</li>
