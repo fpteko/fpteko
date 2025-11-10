@@ -4,7 +4,7 @@ I am currently a Computer Information Systems (CIS) student at the University of
 
 ## Resume & Cover letter
 <ul dir="auto">
-<li><a href="https://github.com/fpteko/Resume.git">Resume</a></li>
+<li><a href="https://fpteko.github.io/">Resume</a></li>
 <li><a href="https://github.com/fpteko/cover-letter.git">cover Letter</a></li>
 </ul>
 
