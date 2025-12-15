@@ -13,30 +13,39 @@ Thank you for taking the time to review my work.
 
 ## 🧠Skills
 <p dir="auto"><br>Programming Languages:<br></p>
+<ul>
 <li>C#</li>
 <li>Exel & Access</li>
 <li>JavaScript</li>
 <li>HTML</li>
 <li>CSS</li>
 <li>PYTHON</li>
+</ul>
 
 <p dir="auto"><br>Database:<br></p>
+<ul>
 <li> MySQL</li>
 <li> Microsoft SQL Server</li>
+</ul>
 
 <p dir="auto"><br>Software & Tools:<br></p>
+<ul>
 <li> Microsoft Office Suite (Word, Excel, Powerpoint)</li>
 <li> Visual Studio Code</li>
+</ul>
 
 <p dir="auto"><br>Operating Systems:<br></p>
+<ul>
 <li> Windows</li>
 <li> Linux</li>
 <li> macOS</li>
+</ul>
 
 <p dir="auto"><br>Diagram and Design Tools:<br></p>
+<ul>
 <li> LucidChard</li>
 <li> Canva</li>
-</p>
+</ul>
 
 ## SQL & Database Design Project
 <ul dir="auto">
