@@ -1,6 +1,10 @@
 ## Hi, I am Folly Teko 👋
 
-I am currently a Computer Information Systems (CIS) student at the University of Louisville specializing in Cyber Security. I’m passionate about leveraging technology to solve complex problems and improve business processes. Throughout my studies, I've gained a strong understanding through project that is showcased in this portfolio. Thank you for taking timne to eye my work!
+I am currently a Computer Information Systems (CIS) student at the University of Louisville, specializing in Cyber Security, and a Web Development student in the Code Louisville program. I am passionate about leveraging technology to solve complex problems and improve business processes.
+
+Through my academic coursework and hands-on training with Code Louisville, I have developed a strong foundation in web development, front-end technologies, and version control using Git and GitHub. I enjoy building practical projects that combine technical problem-solving with user-focused design, including the work showcased in this portfolio.
+
+Thank you for taking the time to review my work.
 
 ## Resume & Cover letter
 <ul dir="auto">
