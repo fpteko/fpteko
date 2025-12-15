@@ -13,16 +13,16 @@ Thank you for taking the time to review my work.
 
 ## 🧠Skills
 <p dir="auto"><br>Programming Languages:<br></p>
-<li> C#</li>
-<li> Exel & Access</li>
-<li> Java</li>
+<li>C#</li>
+<li>Exel & Access</li>
+<li>JavaScript</li>
+<li>HTML</li>
+<li>CSS</li>
+<li>PYTHON</li>
 
 <p dir="auto"><br>Database:<br></p>
 <li> MySQL</li>
 <li> Microsoft SQL Server</li>
-
-<p dir="auto"><br>Web Development:<br></p>
-<li> HTML5</li>
 
 <p dir="auto"><br>Software & Tools:<br></p>
 <li> Microsoft Office Suite (Word, Excel, Powerpoint)</li>
